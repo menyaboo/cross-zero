@@ -7,7 +7,7 @@ const useCellUseCase = () => {
 
 	// TODO: Реализовать логику нажатия на ячейку в поле
 	const handleCellClick = (cell: ICell): void => {
-
+		console.log(cell)
 	}
 
 
